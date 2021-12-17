@@ -1,0 +1,52 @@
+[
+  {
+    "color": "#e0b48d",
+    "title": "Bronze",
+    "body": "Branding on a budget",
+    "price": "US$299",
+    "pricingDescr": [
+      "Prize to Winner - $135 (Included)",
+      "Expected 30+ Entries"
+    ]
+  },
+  {
+    "color": "#e8b954",
+    "title": "Gold",
+    "body": "Increase participation and basic brand validation",
+    "price": "US$449",
+    "pricingDescr": [
+      "Prize to Winner - $225 (Included)",
+      "Validation Services & Upgrades ($267 value)",
+      "NDA and More Privacy",
+      "Project Promotion (Basic)",
+      "Expected 50+ Entries",
+      "Partial Refund Option"
+    ]
+  },
+  {
+    "color": "#555",
+    "title": "Platinum",
+    "body": "Work with top-level creatives, plus agency-style brand validation",
+    "price": "US$749",
+    "pricingDescr": [
+      "Prize to Winner - $300 (Included)",
+      "Validation Services & Upgrades ($644 value)",
+      "udience Testing (Up to 5 Logos)",
+      "Tier A Creatives",
+      "NDA and More Privacy",
+      "Enhanced Project Promotion",
+      "Team Collaboration Tools",
+      "Expected 60+ Entries",
+      "Partial Refund Option"
+    ]
+  },
+  {
+    "color": "#28d2d0",
+    "title": "Managed",
+    "body": "A full agency experience without the agency price tag",
+    "price": "US$1199",
+    "pricingDescr": [
+      "Receive optimum results from your Platinum Contest by launching a Managed Contest Package and working one-on-one with an experienced Squadhelp Branding Consultant. With significantly more validation services, professional brief creation, and daily management of your contest by your Branding Expert, you'll receive an enhanced branding experience to closeout your branding project. Learn More about"
+    ]
+  }
+]
